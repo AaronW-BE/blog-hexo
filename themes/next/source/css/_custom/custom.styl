@@ -1,0 +1,33 @@
+// Custom styles.
+
+.site-author-image:hover {
+    transition: transform 1.7s;
+    -moz-transition:transform 1.7s;
+    -webkit-transition:transform 1.7s;
+    -o-transition:transform 1.7s;
+    transition-timing-function: ease-in;
+    transform: scale(1.27);
+    /*animation: shake 1.27s;*/
+    /*animation-delay: initial;*/
+}
+
+@keyframes shake {
+    0% {
+        transform: rotateX(7deg);
+    }
+    20%{
+        transform: rotate(7deg);
+    }
+    40% {
+        transform: rotate(-7deg);
+    }
+    60%{
+        transform: rotate(7deg);
+    }
+    80% {
+        transform: rotate(-7deg);
+    }
+    100%{
+        transform: rotate(7deg);
+    }
+}
