@@ -27,4 +27,4 @@ branches:
     - master
 env:
   global:
-    - GH_REF: https://github.com/AaronW-BE/blog.git
+    - GH_REF: github.com/AaronW-BE/blog.git
