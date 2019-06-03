@@ -6,6 +6,6 @@ tags: 开发工具
 
 > 当进行微信开发，小程序开发，外网访问内网服务时通常会遇到访问不到内网资源的问题，现在广泛使用的成熟方案可能有花生壳，Ngrok等，不过花生壳虽好可惜要money，自定义域名也是万万不可的，money很多另当别论啦。
 
-[GITHUB 传送门](git@github.com:fatedier/frp.git)
+[GITHUB 传送门](https://github.com/fatedier/frp)
 
 ### 食用方式
