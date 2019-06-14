@@ -2,7 +2,8 @@
   set js_commons = [
     'src/utils.js',
     'src/motion.js',
-    'src/player.js'
+    'src/player.js',
+    'src/ribbon.js'
   ]
 %}
 
